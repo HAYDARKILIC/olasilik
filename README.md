@@ -22,7 +22,7 @@ Bu repo, **Mühendisler İçin Olasılık** dersine ait interaktif Jupyter Noteb
 ## 🗂️ Repo Yapısı
 
 ```
-olasilik-ve-istatistik/
+olasilik/
 │
 ├── README.md
 ├── requirements.txt
@@ -49,8 +49,8 @@ olasilik-ve-istatistik/
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/HAYDARKILIC/olasilik-ve-istatistik.git
-cd olasilik-ve-istatistik
+git clone https://github.com/HAYDARKILIC/olasilik.git
+cd olasilik
 
 # Sanal ortam oluştur (önerilen)
 python -m venv .venv
@@ -79,4 +79,4 @@ jupyter lab
 
 ---
 
-*Haydar Kılıç, Yapay Zeka Mühendisliği
+*Haydar Kılıç, Yapay Zeka Mühendisliği*
