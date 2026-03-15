@@ -1,6 +1,6 @@
 # 📊 Mühendisler İçin Olasılık
 
-** Haydar Kılıç · Yapay Zeka Mühendisliği**
+**Haydar Kılıç · Yapay Zeka Mühendisliği**
 
 Bu repo, **Mühendisler İçin Olasılık** dersine ait interaktif Jupyter Notebook materyallerini içermektedir. Her ders; teorik altyapı, Python uygulamaları, görselleştirmeler ve alıştırmalardan oluşan kendi kendine yetkin bir notebook olarak sunulmaktadır.
 
