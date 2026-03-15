@@ -1,0 +1,19 @@
+# MAT204 — Mühendisler İçin Olasılık ve İstatistik
+# Python 3.10+ gerektirir
+
+# Temel sayısal hesaplama
+numpy>=1.24.0
+
+# İstatistiksel dağılımlar ve özel fonksiyonlar
+scipy>=1.11.0
+
+# Sembolik matematik (türev, integral, limit doğrulamaları)
+sympy>=1.12
+
+# Grafik ve görselleştirme
+matplotlib>=3.7.0
+
+# Jupyter ortamı
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
