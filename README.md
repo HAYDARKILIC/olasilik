@@ -77,6 +77,10 @@ jupyter lab
 | `itertools` | Kombinatoryal üretim (permütasyon, kombinasyon) |
 | `collections` | Frekans sayımı (`Counter`) |
 
+## 📖 Kaynak Kitap
+
+Ross, S. M. (2020). A first course in probability. Harlow, UK: Pearson.
+
 ---
 
 *Haydar Kılıç, Yapay Zeka Mühendisliği*
